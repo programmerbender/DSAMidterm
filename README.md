@@ -41,4 +41,4 @@ This will:
 
 -Launch the React app on http://localhost:3000/ by default
 -Automatically open your default browser with the app running
--Enable hot-reloading, so changes you make will be reflected in real-time without needing to refresh the browser.
+-Enable hot-reloading, so changes you make will be reflected in real-time without needing to refresh the browser.     
